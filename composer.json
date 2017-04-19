@@ -1,0 +1,25 @@
+{
+    "name": "shahafan/framework",
+    "description": "The SAmvc Framework example",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shahaf Antwarg",
+            "email": "santwarg@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "url": "https://github.com/shahafan/SAmvc",
+            "type": "vcs"
+        }
+    ],
+    "require": {
+      "shahafan/samvc": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+          "App\\": ""
+        }
+    }
+}

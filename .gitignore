@@ -1,0 +1,7 @@
+cgi-bin
+uploads
+error_log
+composer.phar
+composer.lock
+.env
+/vendor/
