@@ -8,14 +8,8 @@
             "email": "santwarg@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "url": "https://github.com/shahafan/SAmvc",
-            "type": "vcs"
-        }
-    ],
     "require": {
-      "shahafan/samvc": "dev-master"
+      "shahafan/samvc": "^1.0"
     },
     "autoload": {
         "psr-4": {
